@@ -1,0 +1,20 @@
+{
+  "name": "chef-recipe-hunter-server",
+  "version": "1.0.0",
+  "description": "only for passing data to client side",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "chef",
+    "recipe"
+  ],
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
