@@ -6,6 +6,7 @@
     "experience": 12,
     "recipes": 78,
     "likes": 420,
+    "chef-bio": "John Smith was an American chef, author, and television personality who introduced French cuisine and cooking techniques to the American mainstream through her cookbook, Mastering the Art of French Cooking, and her television show, The French Chef.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -71,6 +72,7 @@
     "experience": 8,
     "recipes": 52,
     "likes": 312,
+    "chef-bio": "Sarah Johnson is an American chef, author, and television personality known for her show, Barefoot Contessa. She has also written numerous cookbooks and owns a specialty food store in the Hamptons.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -136,6 +138,7 @@
     "experience": 15,
     "recipes": 92,
     "likes": 654,
+    "chef-bio": "David Lee was an American chef, author, and television personality known for his books and shows that explored the world's diverse cultures and cuisines, such as No Reservations and Parts Unknown.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -201,6 +204,7 @@
     "experience": 10,
     "recipes": 68,
     "likes": 234,
+    "chef-bio": "Amy Chen is an Indian-Chinese chef, author, and television personality known for hosting the cooking competition show, Top Chef. She has also written several cookbooks and is an advocate for women's health and rights.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -266,6 +270,7 @@
     "experience": 18,
     "recipes": 106,
     "likes": 789,
+    "chef-bio": "Michael Kim is a British chef, restaurateur, and television personality known for his healthy eating campaigns and his shows such as The Naked Chef and Jamie's Kitchen. He has also written numerous cookbooks and owns several restaurants around the world.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -331,6 +336,7 @@
     "experience": 7,
     "recipes": 43,
     "likes": 178,
+    "chef-bio": "Emily Davis is a British chef, author, and television personality known for her relaxed cooking style and her shows such as Nigella Bites and Nigellissima. She has also written numerous cookbooks and is an advocate for food literacy.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -396,6 +402,7 @@
     "experience": 13,
     "recipes": 81,
     "likes": 532,
+    "chef-bio": "James Nguyen is an American chef, restaurateur, and television personality known for his show, Emeril Live, and his catchphrase, 'Bam!'. He has also written numerous cookbooks and owns several restaurants around the world.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -461,6 +468,7 @@
     "experience": 9,
     "recipes": 57,
     "likes": 289,
+    "chef-bio": "Jessica Wilson is an American model, author, and television personality who has also become known for her cooking skills and her cookbook, Cravings. She has also co-hosted the show Lip Sync Battle and is an advocate for body positivity and mental health.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
@@ -526,6 +534,7 @@
     "experience": 11,
     "recipes": 72,
     "likes": 398,
+    "chef-bio": "William Brown is a British chef, author, and television personality known for her relaxed cooking style and her shows such as Nigella Bites and Nigellissima. She has also written numerous cookbooks and is an advocate for food literacy.",
     "featured_recipe": [
       {
         "image": "https://i.ibb.co/dDnGzTg/image.png",
